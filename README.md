@@ -4,7 +4,7 @@ Hi,I'm a very ambitious front-end developer looking for a role in an established
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagesh1401&label=Profile%20views&color=0e75b6&style=flat" alt="nageshpandey" /> </p>
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshpandey/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagesh1401/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nageshpandey)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nagesh.pandey.9083)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/TN7HY14KE/D03ATSTRBJS)
